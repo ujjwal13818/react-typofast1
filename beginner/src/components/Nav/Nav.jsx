@@ -13,7 +13,7 @@ const Nav = () => {
               <div className="nav-right">
                 <a
                 className="nav-linkedin-link"
-                href="http://localhost:2500/features">Go Back</a>
+                href="https://typofast.onrender.com/features">Go Back</a>
             </div>
         </div>
     )

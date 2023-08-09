@@ -2,7 +2,7 @@
   "name": "flashtype",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ujjwal13818.github.io/react-typofast1",
+  "homepage": "https://ujjwal13818.github.io/reacttypofast1/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
